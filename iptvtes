@@ -6,17 +6,14 @@
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rcti-id.png" group-title="Indonesia Channels",RCTI R+
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
-EXTINF:-1 tvg-id="CNA - [Channel 1].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503403_tvchannels_v1.jpg" group-title="Indonesia Channels",Tes
-https://www.dens.tv/1cc2b55d-3782-4e0a-8858-974482de8527
-
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID1.png"tvg-chno=""group-title="CHANNEL | SPORT INDO":http-referrer="":http-user-agent="",114. ID:Bein Sports 1
+#EXTINF:-1 tvg-name="Bein 1"tvg-id=" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID1.png"tvg-chno=" group-title="CHANNEL | SPORT INDO",Bein Sports 1
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd 
 
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID2.png"tvg-chno=""group-title="CHANNEL | SPORT INDO":http-referrer="":http-user-agent="",115. ID:Bein Sports 2
+#EXTINF:-1 tvg-name="Bein 2"tvg-id=" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID2.png"tvg-chno=" group-title="CHANNEL | SPORT INDO",Bein Sports 2
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd 
 
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID3.png"tvg-chno=""group-title="CHANNEL | SPORT INDO":http-referrer="":http-user-agent="",116. ID:Bein Sports 3
+#EXTINF:-1 tvg-name="Bein 3"tvg-id=" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID3.png"tvg-chno=" group-title="CHANNEL | SPORT INDO",Bein Sports 3
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 tvg-name="NBA TV"tvg-id=""tvg-logo="https://i.imgur.com/K3FXClz.jpeg "tvg-chno=""group-title="CHANNEL | SPORT INDO":http-referrer="":http-user-agent="",NBA TV (Indi)
+#EXTINF:-1 tvg-name="NBA TV"tvg-id=" tvg-logo="https://i.imgur.com/K3FXClz.jpeg "tvg-chno=" group-title="CHANNEL | SPORT INDO",NBA TV (Indi)
 https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
